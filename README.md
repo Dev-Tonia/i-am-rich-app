@@ -1,4 +1,6 @@
 # i_am_rich_app
+![Screenshot (25)](https://user-images.githubusercontent.com/80988202/166390085-a900b8b9-a268-44c3-b451-6450eb689b28.png)
+
 
 A new Flutter project.
 
